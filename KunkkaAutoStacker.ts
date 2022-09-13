@@ -1,4 +1,4 @@
-import { Ability, ArrayExtensions, Color, Creep, EntityManager, EventsSDK, GameRules, GameState, GUIInfo, Hero, kunkka_torrent, Menu, NeutralSpawnBox, RendererSDK, TickSleeper, Unit, Vector2, Vector3, WardObserver } from "github.com/octarine-public/wrapper/wrapper/Imports"
+import { Ability, ArrayExtensions, Color, Creep, EntityManager, EventsSDK, GameRules, GameState, GUIInfo, Hero, kunkka_torrent, Menu, NeutralSpawnBox, RendererSDK, TickSleeper, Unit, Vector2, Vector3, WardObserver } from "github.com/octarine-public/wrapper/index"
 
 const entry = Menu.AddEntry("Utility")
 const tree = entry.AddNode("Kunkka AutoStacker", "panorama/images/spellicons/kunkka_torrent_png.vtex_c", undefined, 0)
